@@ -1,10 +1,12 @@
 # publish-mine
 
-A platform to share publications
+A platform to share publications.
 
 ---
 
-## Back-end setup
+## Back-end
+
+### Setup
 
 ### Development
 
@@ -12,7 +14,9 @@ A platform to share publications
 
 ---
 
-## Front-end setup
+## Front-end
+
+### Setup
 
 First of all, install all needed packages:
 
