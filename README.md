@@ -30,7 +30,7 @@ npm run serve
 
 ### Production
 
-Compiles and minifies
+Compiles and minifies:
 
 ```
 npm run build
